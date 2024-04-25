@@ -1,0 +1,2 @@
+# Whitelist Botting (2022-2024)
+This is a small portion of scripts/bots I made for automating whitelist submissions. While some of them are only sending simple WebRequest, others required monitoring for links, submitting a form via browser and verify email. The complexity really varies from project to project.
